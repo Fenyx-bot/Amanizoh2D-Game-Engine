@@ -1,0 +1,18 @@
+C:\Users\ALPHA\source\repos\Sorting Algorithm\bin\Debug\csfml-audio-2.dll
+C:\Users\ALPHA\source\repos\Sorting Algorithm\bin\Debug\csfml-graphics-2.dll
+C:\Users\ALPHA\source\repos\Sorting Algorithm\bin\Debug\csfml-system-2.dll
+C:\Users\ALPHA\source\repos\Sorting Algorithm\bin\Debug\csfml-window-2.dll
+C:\Users\ALPHA\source\repos\Sorting Algorithm\bin\Debug\openal32.dll
+C:\Users\ALPHA\source\repos\Sorting Algorithm\bin\Debug\OpenTK.dll
+C:\Users\ALPHA\source\repos\Sorting Algorithm\bin\Debug\Sorting Algorithm.exe.config
+C:\Users\ALPHA\source\repos\Sorting Algorithm\bin\Debug\Sorting Algorithm.exe
+C:\Users\ALPHA\source\repos\Sorting Algorithm\bin\Debug\Sorting Algorithm.pdb
+C:\Users\ALPHA\source\repos\Sorting Algorithm\bin\Debug\sfml-audio.dll
+C:\Users\ALPHA\source\repos\Sorting Algorithm\bin\Debug\sfml-graphics.dll
+C:\Users\ALPHA\source\repos\Sorting Algorithm\bin\Debug\sfml-system.dll
+C:\Users\ALPHA\source\repos\Sorting Algorithm\bin\Debug\sfml-window.dll
+C:\Users\ALPHA\source\repos\Sorting Algorithm\obj\Debug\Sorting Algorithms Visualizer.csproj.AssemblyReference.cache
+C:\Users\ALPHA\source\repos\Sorting Algorithm\obj\Debug\Sorting Algorithms Visualizer.csproj.CoreCompileInputs.cache
+C:\Users\ALPHA\source\repos\Sorting Algorithm\obj\Debug\Sorting Algorithms Visualizer.csproj.CopyComplete
+C:\Users\ALPHA\source\repos\Sorting Algorithm\obj\Debug\Sorting Algorithm.exe
+C:\Users\ALPHA\source\repos\Sorting Algorithm\obj\Debug\Sorting Algorithm.pdb

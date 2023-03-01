@@ -1,0 +1,7 @@
+C:\Users\ALPHA\source\repos\Sorting Algorithm\bin\Debug\Sorting Algorithm.exe.config
+C:\Users\ALPHA\source\repos\Sorting Algorithm\bin\Debug\Sorting Algorithm.exe
+C:\Users\ALPHA\source\repos\Sorting Algorithm\bin\Debug\Sorting Algorithm.pdb
+C:\Users\ALPHA\source\repos\Sorting Algorithm\obj\Debug\Sorting Algorithm.csproj.AssemblyReference.cache
+C:\Users\ALPHA\source\repos\Sorting Algorithm\obj\Debug\Sorting Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\ALPHA\source\repos\Sorting Algorithm\obj\Debug\Sorting Algorithm.exe
+C:\Users\ALPHA\source\repos\Sorting Algorithm\obj\Debug\Sorting Algorithm.pdb
